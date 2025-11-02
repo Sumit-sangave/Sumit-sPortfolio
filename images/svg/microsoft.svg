@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Microsoft logo: four squares -->
+  <rect width="256" height="256" fill="#ffffff"/>
+  <rect x="16" y="16" width="110" height="110" fill="#F35325"/>
+  <rect x="130" y="16" width="110" height="110" fill="#81BC06"/>
+  <rect x="16" y="130" width="110" height="110" fill="#05A6F0"/>
+  <rect x="130" y="130" width="110" height="110" fill="#FFBA08"/>
+</svg>
+
+
+
+

@@ -1,0 +1,298 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        },
+
+        "hi": {
+            "title": "पोर्टफोलियो",
+            "title_long_prefix": "देखिए",
+            "title_long": "मेरा **पोर्टफोलियो**"
+        },
+
+        "mr": {
+            "title": "पोर्टफोलिओ",
+            "title_long_prefix": "पहा",
+            "title_long": "माझे **पोर्टफोलिओ**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"},
+                        "hi": {"singular": "ऐप", "plural": "ऐप्स"},
+                        "mr": {"singular": "ऍप", "plural": "ऍप्स"}
+                    }
+                },
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"},
+                        "hi": {"singular": "वेबसाइट", "plural": "वेब"},
+                        "mr": {"singular": "वेबसाइट", "plural": "वेब"}
+                    }
+                },
+                {
+                    "id": "utilities",
+                    "locales": {
+                        "en": {"singular": "Utility", "plural": "Utilities"},
+                        "hi": {"singular": "उपयोगिता", "plural": "उपयोगिताएँ"},
+                        "mr": {"singular": "उपयुक्त साधन", "plural": "उपयुक्त साधने"}
+                    }
+                }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/clipsyai.png",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "CLipsyAI",
+                            "text": "AI-powered tool that turns text prompts into complete short videos with scripts, visuals, voiceovers, and captions. Built using <b>Next.js</b>, <b>Gemini API</b>, and <b>Cloudinary</b> with SaaS-ready features.",
+                            "tags": ["AI","Next.js","SaaS","Cloudinary"]
+                        },
+                        "hi": {
+                            "title": "CLipsyAI",
+                            "text": "AI-संचालित उपकरण जो टेक्स्ट प्रॉम्प्ट को पूर्ण शॉर्ट वीडियो में बदलता है जिसमें स्क्रिप्ट, विजुअल, वॉयसओवर और कैप्शन शामिल हैं। Next.js, Gemini API और Cloudinary के साथ SaaS-तैयार सुविधाओं के साथ निर्मित।",
+                            "tags": ["AI","Next.js","SaaS","Cloudinary"]
+                        },
+                        "mr": {
+                            "title": "CLipsyAI",
+                            "text": "AI-चालित साधन जे टेक्स्ट प्रॉम्प्ट्सना पूर्ण लहान व्हिडिओमध्ये रूपांतरित करते ज्यात स्क्रिप्ट, व्हिज्युअल, व्हॉइसओव्हर आणि कॅप्शन्स समाविष्ट आहेत। Next.js, Gemini API आणि Cloudinary सह SaaS-तयार वैशिष्ट्यांसह बांधले",
+                            "tags": ["AI","Next.js","SaaS","Cloudinary"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/cgm.png",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "CGM - Campus Grid Management",
+                            "text": "A smart campus management system designed to digitalize campus infrastructure, automate resource usage, and optimize energy and facility management across institutions. Built with React, Django REST Framework, and PostgreSQL for real-time monitoring and analytics.",
+                            "tags": ["SIH2025","React", "DjangoREST", "PostgreSQL"]
+                        },
+                        "hi": {
+                            "title": "CGM - Campus Grid Management",
+                            "text": "एक स्मार्ट कैंपस मैनेजमेंट सिस्टम जो कैंपस के इंफ्रास्ट्रक्चर को डिजिटलाइज करता है, संसाधनों के उपयोग को स्वचालित करता है और ऊर्जा व सुविधाओं के प्रबंधन को बेहतर बनाता है। React, Django REST Framework, और PostgreSQL का उपयोग करके रीयल-टाइम मॉनिटरिंग और एनालिटिक्स के लिए विकसित किया गया है।",
+                            "tags": ["DSA", "React", "Fullstack","PostgreSQL"]
+                        },
+                        "mr": {
+                            "title": "CGM - Campus Grid Management",
+                            "text": "एक स्मार्ट कॅम्पस मॅनेजमेंट सिस्टम जी कॅम्पसच्या पायाभूत सुविधांचे डिजिटायझेशन करते, संसाधनांचा वापर स्वयंचलित करते आणि ऊर्जा तसेच सुविधा व्यवस्थापन अधिक कार्यक्षम बनवते. React, Django REST Framework, आणि PostgreSQL वापरून रिअल-टाइम मॉनिटरिंग आणि विश्लेषणासाठी विकसित केलेली.",
+                            "tags": ["DSA", "React", "Fullstack","PostgreSQL"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/sknhackathon.jpg",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "",
+                                "images/pictures/project-screenshot-2.png",
+                                "images/pictures/project-screenshot-3.png",
+                                "images/pictures/project-screenshot-4.png"                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Sinhgad Hackathon",
+                            "text": "An online platform for smooth hackathon registrations with real-time validation and secure data handling using React, PHP, and MySQL.",
+                            "tags": ["PHP", "React", "MySQL","Fullstack"]
+                        },
+                        "hi": {
+                            "title": "Sinhgad Hackathon",
+                            "text": "रियल-टाइम वैलिडेशन और सुरक्षित डेटा हैंडलिंग के साथ सुचारू हैकाथॉन पंजीकरण के लिए एक ऑनलाइन प्लेटफॉर्म। React, PHP और MySQL का उपयोग करके बनाया गया।",
+                            "tags": ["PHP", "React", "MySQL","Fullstack"]
+                        },
+                        "mr": {
+                            "title": "Sinhgad Hackathon",
+                            "text": "रियल-टाइम वैलिडेशन आणि सुरक्षित डेटा हॅंडलिंगसह सुचारू हॅकाथॉन नोंदणीसाठी ऑनलाइन प्लॅटफॉर्म। React, PHP आणि MySQL वापरून बांधले",
+                            "tags": ["PHP", "React", "MySQL","Fullstack"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/algosys.png",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "AlgoSys",
+                            "text": "Interactive DSA learning website offering visualizations, theory, and quizzes. Built with React, Django REST Framework, and PostgreSQL.",
+                            "tags": ["DSA", "React", "Fullstack","PostgreSQL"]
+                        },
+                        "hi": {
+                            "title": "AlgoSys",
+                            "text": "इंटरैक्टिव DSA लर्निंग वेबसाइट जो विजुअलाइजेशन, थ्योरी और क्विज़ प्रदान करती है। React, Django REST Framework और PostgreSQL के साथ बनाया गया।",
+                            "tags": ["DSA", "React", "Fullstack","PostgreSQL"]
+                        },
+                        "mr": {
+                            "title": "AlgoSys",
+                            "text": "इंटरॅक्टिव DSA लर्निंग वेबसाइट जी विजुअलायझेशन, थिअरी आणि क्विझ प्रदान करते। React, Django REST Framework आणि PostgreSQL सह बांधले।",
+                            "tags": ["DSA", "React", "Fullstack","PostgreSQL"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/learnex.png",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "LearNex",
+                            "text": "Engaging platform combining education with games, quizzes, and progress tracking using HTML, CSS, JS, and Django REST Framework.",
+                            "tags": ["Education", "DjangoREST", "PostgreSQL", "GamifiedLearning"]
+                        },
+                        "hi": {
+                            "title": "LearNex",
+                            "text": "शिक्षा को गेम्स, क्विज़ और प्रगति ट्रैकिंग के साथ जोड़ने वाला आकर्षक प्लेटफॉर्म। HTML, CSS, JS और Django REST Framework का उपयोग करके बनाया गया।",
+                            "tags": ["Education", "DjangoREST", "PostgreSQL", "GamifiedLearning"]
+                        },
+                        "mr": {
+                            "title": "LearNex",
+                            "text": "शिक्षा गेम्स, क्विझ आणि प्रगती ट्रॅकिंगसह जोडणारे आकर्षक प्लॅटफॉर्म। HTML, CSS, JS आणि Django REST Framework वापरून बांधले",
+                            "tags": ["Education", "DjangoREST", "PostgreSQL", "GamifiedLearning"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/mobilecity.png",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "MobileCity",
+                            "text": "Responsive e-commerce site for browsing, filtering, and ordering mobiles with secure authentication using React and Django REST Framework.",
+                            "tags": ["Ecommerce", "React", "DjangoREST","PostgreSQL"]
+                        },
+                        "hi": {
+                            "title": "MobileCity",
+                            "text": "मोबाइल ब्राउज़िंग, फिल्टरिंग और ऑर्डरिंग के लिए रेस्पॉन्सिव ई-कॉमर्स साइट जो React और Django REST Framework के साथ सुरक्षित प्रमाणीकरण प्रदान करती है।",
+                            "tags": ["Ecommerce", "React", "DjangoREST","PostgreSQL"]
+                        },
+                        "mr": {
+                            "title": "MobileCity",
+                            "text": "मोबाइल ब्राउझिंग, फिल्टरिंग आणि ऑर्डरिंगसाठी रेस्पॉन्सिव ई-कॉमर्स साइट जी React आणि Django REST Framework सह सुरक्षित प्रमाणीकरण प्रदान करते",
+                            "tags": ["Ecommerce", "React", "DjangoREST","PostgreSQL"]
+                        }
+                    }
+                }
+
+            ]
+        }
+    ]
+}

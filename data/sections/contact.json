@@ -1,0 +1,143 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        },
+
+        "hi": {
+            "title": "संपर्क",
+            "title_long_prefix": "संकोच न करें",
+            "title_long": "मुझसे **संपर्क** करें"
+        },
+
+        "mr": {
+            "title": "संपर्क",
+            "title_long_prefix": "संकोच न करा",
+            "title_long": "माझ्याशी **संपर्क** साधा"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {"title": "Send me a **message**"},
+                "hi": {"title": "मुझे **संदेश** भेजें"},
+                "mr": {"title": "मला **संदेश** पाठवा"}
+            },
+
+            "items": null
+        },
+
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Or if you **prefer**..."},
+                "hi": {"title": "या अगर आप **पसंद करें**..."},
+                "mr": {"title": "किंवा जर तुम्ही **पसंत करत असाल**..."}
+            },
+
+            "items": [
+                {
+                    "value": "+91 8087320580",
+                    "links": [
+                        {"href": "tel:8087320580"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Phone"}
+                    }
+                },
+
+                {
+                    "value": "sumitsangave2631@gmail.com",
+                    "links": [
+                        {"href": "mailto:sumitsangave2631@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "E-mail"}
+                    }
+                },
+
+                {
+                    "value": "@sumitsangave",
+                    "links": [
+                        {"href": "https://www.linkedin.com/in/sumit-sangave-8667142a3/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "LinkedIn"}
+                    }
+                },
+
+                {
+                    "value": "@Sumit-sangave",
+                    "links": [
+                        {"href": "https://github.com/Sumit-sangave"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "GitHub"}
+                    }
+                },
+
+
+                {
+                    "value": "@sumitsangave",
+                    "links": [
+                        {"href": "https://leetcode.com/u/UAqkOfbTh6/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "LeetCode"}
+                    }
+                },
+
+
+                {
+                    "value": "@sumit._2631",
+                    "links": [
+                        {"href": "https://www.instagram.com/sumit._2631?igsh=bm9lajRmcXowbjM3"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-instagram",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Instagram"}
+                    }
+                }
+            ]
+        }
+    ]
+}

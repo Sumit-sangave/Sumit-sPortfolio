@@ -1,0 +1,716 @@
+{
+    "locales": {
+        "en": {
+            "title": "Skills",
+            "title_long_prefix": "Explore",
+            "title_long": "My **Skill Set**"
+        },
+
+        "hi": {
+            "title": "कौशल",
+            "title_long_prefix": "अन्वेषण करें",
+            "title_long": "मेरे **कौशल**"
+        },
+
+        "mr": {
+            "title": "कौशल्ये",
+            "title_long_prefix": "अन्वेषण करा",
+            "title_long": "माझी **कौशल्ये**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "capabilities",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": {"title": ""}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#FF6B6B", "fill": "#EEE"}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Database** management",
+                            "text": "I can handle complex data efficiently and turn it into actionable insights, ensuring accuracy and impact in every solution."
+                        },
+                        "hi": {
+                            "title": "**डेटाबेस** प्रबंधन",
+                            "text": "मैं जटिल डेटा को कुशलतापूर्वक संभाल सकता हूँ और इसे क्रियान्वयन योग्य अंतर्दृष्टि में बदल सकता हूँ, हर समाधान में सटीकता और प्रभाव सुनिश्चित करता हूँ।"
+                        },
+                        "mr": {
+                            "title": "**डेटाबेस** व्यवस्थापन",
+                            "text": "मी क्लिष्ट डेटा प्रभावीपणे हाताळू शकतो आणि ते क्रियाशील अंतर्दृष्टीमध्ये रूपांतरित करू शकतो, प्रत्येक समाधानात अचूकता आणि प्रभाव सुनिश्चित करतो."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "REST **APIs**",
+                            "text": "I can build powerful and scalable API services, ensuring seamless communication and reliable performance across systems."
+                        },
+                        "hi": {
+                            "title": "रेस्ट **एपीआय**",
+                            "text": "मी शक्तिशाली आणि स्केलेबल एपीआय सेवा तयार करू शकतो, ज्यामुळे सर्व सिस्टीममध्ये अखंड संवाद आणि विश्वासार्ह कामगिरी सुनिश्चित होते."
+                        },
+                        "mr": {
+                            "title": "",
+                            "text": "मैं शक्तिशाली और स्केलेबल एपीआय सेवाओं का निर्माण कर सकता हूं, जिससे सभी प्रणालियों में निर्बाध संचार और विश्वसनीय प्रदर्शन सुनिश्चित हो सके।"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-puzzle-piece",
+                        "faColors": {"bg": "#FFE66D", "fill": "#111"}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Problem** solving",
+                            "text": "A creative problem solver and solution architect who transforms complex challenges into smart, efficient, and practical solutions."
+                        },
+                        "hi": {
+                            "title": "**समस्या** सुलझाना",
+                            "text": "एक रचनात्मक समस्या समाधानकर्ता और समाधान वास्तुकार जो जटिल चुनौतियों को स्मार्ट, कुशल और व्यावहारिक समाधानों में बदल देता है।"
+                        },
+                        "mr": {
+                            "title": "**समस्या** सोडवणे",
+                            "text": "एक सर्जनशील समस्या सोडवणारा आणि उपाय शिल्पकार जो जटिल आव्हानांना स्मार्ट, कार्यक्षम आणि व्यावहारिक उपायांमध्ये रूपांतरित करतो."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-layer-group",
+                        "faColors": {"bg": "#6C5CE7", "fill": "#EEE"}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Fullstack **Development**",
+                            "text": "A full-stack developer with expertise in secure integrations, skilled at building end-to-end systems that are reliable and efficient."
+                        },
+                        "hi": {
+                            "title": "**फुलस्टैक** विकास",
+                            "text": "सुरक्षित एकीकरण में विशेषज्ञता वाला एक पूर्ण-स्टैक डेवलपर, विश्वसनीय और कुशल एंड-टू-एंड सिस्टम बनाने में कुशल।"
+                        },
+                        "mr": {
+                            "title": "**फुलस्टॅक** विकास",
+                            "text": "सुरक्षित एकत्रीकरणात तज्ज्ञ असलेला, विश्वासार्ह आणि कार्यक्षम अशा एंड-टू-एंड सिस्टम तयार करण्यात कुशल असलेला पूर्ण-स्टॅक डेव्हलपर."
+                        }
+                    }
+                }
+
+            ]
+
+        },
+
+        {
+            "id": "backend_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Backend"},
+                "hi": {"title": "बैकएंड"},
+                "mr": {"title": "बॅकएंड"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "value": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Python 3.x",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "Python 3.x",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "Python 3.x",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/svg/django.svg",
+                        "fa": null,
+                        "faColors": {"bg": "#092E20", "fill": "#EEE"}
+                    },
+                    "value": 50,
+                    "locales": {
+                        "en": { "title": "Django", "info": null },
+                        "hi": { "title": "Django", "info": null },
+                        "mr": { "title": "Django", "info": null }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#4479A1", "fill": "#EEE"}
+                    },
+                    "value": 70,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "MySQL",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "MySQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/svg/postgresql.svg",
+                        "fa": null,
+                        "faColors": {"bg": "#336791", "fill": "#EEE"}
+                    },
+                    "value": 60,
+                    "locales": {
+                        "en": { "title": "PostgreSQL", "info": null },
+                        "hi": { "title": "PostgreSQL", "info": null },
+                        "mr": { "title": "PostgreSQL", "info": null }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "value": 20,
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "MongoDB",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "MongoDB",
+                            "info": null
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git",
+                        "faColors": {"bg": "#F05032", "fill": "#111"}
+                    },
+                    "value": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "Git",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "Git",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "front_end_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Frontend"},
+                "hi": {"title": "फ्रंटएंड"},
+                "mr": {"title": "फ्रंटएंड"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-html5",
+                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
+                    },
+                    "value": 95,
+
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "HTML5",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "HTML5",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-css3",
+                        "faColors": {"bg": "#1572B6", "fill": "#EEE"}
+                    },
+                    "value": 65,
+
+                    "locales": {
+                        "en": {
+                            "title": "CSS3",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "CSS3",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "CSS3",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
+                    },
+                    "value": 30,
+
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "JavaScript",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "JavaScript",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#61DAFB", "fill": "#111"}
+                    },
+                    "value": 75,
+
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "React",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "React",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-paint-brush",
+                        "faColors": {"bg": "#38BDF8", "fill": "#111"}
+                    },
+                    "value": 40,
+
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind CSS",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "Tailwind CSS",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "Tailwind CSS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-bootstrap",
+                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
+                    },
+                    "value": 25,
+
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "Bootstrap",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "Bootstrap",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "core_concepts",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Core"},
+                "hi": {"title": "कोर"},
+                "mr": {"title": "कोर"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code-branch",
+                        "faColors": {"bg": "#FF6B35", "fill": "#EEE"}
+                    },
+                    "value": 50,
+                    "locales": {
+                        "en": {
+                            "title": "DSA",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "DSA",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "DSA",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cubes",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+                    "value": 50,
+                    "locales": {
+                        "en": {
+                            "title": "OOP",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "OOP",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "OOP",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-project-diagram",
+                        "faColors": {"bg": "#95E1D3", "fill": "#111"}
+                    },
+                    "value": 25,
+                    "locales": {
+                        "en": {
+                            "title": "SDLC",
+                            "info": null
+                        },
+                        "hi": {
+                            "title": "SDLC",
+                            "info": null
+                        },
+                        "mr": {
+                            "title": "SDLC",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "soft_skills_and_languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": { "title": "Skills & Languages" },
+                "hi": { "title": "कौशल और भाषाएँ" },
+                "mr": { "title": "कौशल्ये आणि भाषा" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-crown",
+                        "faColors": { "bg": "#FFD700", "fill": "#111" }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Leadership",
+                            "info": "Leading teams and driving projects to success.",
+                            "tags": ["Management"]
+                        },
+                        "hi": {
+                            "title": "नेतृत्व",
+                            "info": "टीमों का नेतृत्व करना और परियोजनाओं को सफल बनाना।",
+                            "tags": ["Management"]
+                        },
+                        "mr": {
+                            "title": "नेतृत्व",
+                            "info": "संघांचा नेतृत्व करणे आणि प्रकल्पांना यशस्वी बनवणे.",
+                            "tags": ["Management"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-users",
+                        "faColors": { "bg": "#4ECDC4", "fill": "#111" }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Team Collaboration",
+                            "info": "Working effectively with diverse teams.",
+                            "tags": ["Teamwork"]
+                        },
+                        "hi": {
+                            "title": "टीम सहयोग",
+                            "info": "विविध टीमों के साथ प्रभावी काम करना।",
+                            "tags": ["Teamwork"]
+                        },
+                        "mr": {
+                            "title": "संघ सहयोग",
+                            "info": "विविध संघांसह प्रभावी काम करणे।",
+                            "tags": ["Teamwork"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": { "bg": "#FF6B6B", "fill": "#EEE" }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Quick Learning",
+                            "info": "Fast adaptation to new technologies.",
+                            "tags": ["Adaptability"]
+                        },
+                        "hi": {
+                            "title": "तेज़ सीखना",
+                            "info": "नई तकनीकों के लिए तेज़ अनुकूलन।",
+                            "tags": ["Adaptability"]
+                        },
+                        "mr": {
+                            "title": "वेगवान शिक्षण",
+                            "info": "नवीन तंत्रज्ञानासाठी वेगवान जुळवून घेणे।",
+                            "tags": ["Adaptability"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/flags/en.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "info": "Proficient speaker with excellent communication and writing skills.",
+                            "tags": ["Professional"]
+                        },
+                        "hi": {
+                            "title": "अंग्रेज़ी",
+                            "info": "प्रभावी वक्ता, उत्कृष्ट संचार और लेखन कौशल।",
+                            "tags": ["Professional"]
+                        },
+                        "mr": {
+                            "title": "इंग्रजी",
+                            "info": "प्रभावी बोलणे आणि लिखाण कौशल्यांसह प्रावीण्य.",
+                            "tags": ["Professional"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-comments",
+                        "faColors": { "bg": "#95E1D3", "fill": "#111" }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Communication",
+                            "info": "Strong verbal and written communication skills.",
+                            "tags": ["Interpersonal"]
+                        },
+                        "hi": {
+                            "title": "संचार",
+                            "info": "मजबूत मौखिक और लिखित संचार कौशल।",
+                            "tags": ["Interpersonal"]
+                        },
+                        "mr": {
+                            "title": "संवाद",
+                            "info": "मजबूत मौखिक आणि लिखित संवाद कौशल्ये।",
+                            "tags": ["Interpersonal"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/flags/in.svg",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Hindi",
+                            "info": "Fluent in spoken and written Hindi; confident in professional communication.",
+                            "tags": ["Fluent"]
+                        },
+                        "hi": {
+                            "title": "हिन्दी",
+                            "info": "बोलचाल और लेखन में प्रवीण; पेशेवर संचार में आत्मविश्वासी।",
+                            "tags": ["Fluent"]
+                        },
+                        "mr": {
+                            "title": "हिंदी",
+                            "info": "बोलण्यात आणि लेखनात प्राविण्य; व्यावसायिक संवादात आत्मविश्वास.",
+                            "tags": ["Fluent"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-microphone",
+                        "faColors": { "bg": "#6C5CE7", "fill": "#EEE" }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Public Speaking",
+                            "info": "Confident presenter to various audiences.",
+                            "tags": ["Presentation"]
+                        },
+                        "hi": {
+                            "title": "सार्वजनिक बोलना",
+                            "info": "विभिन्न दर्शकों के सामने आत्मविश्वासी प्रस्तुति।",
+                            "tags": ["Presentation"]
+                        },
+                        "mr": {
+                            "title": "सार्वजनिक बोलणे",
+                            "info": "विविध प्रेक्षकांसमोर आत्मविश्वासी सादरीकरण।",
+                            "tags": ["Presentation"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/flags/in.svg",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Marathi",
+                            "info": "Native speaker with strong understanding of written and spoken Marathi.",
+                            "tags": ["Native"]
+                        },
+                        "hi": {
+                            "title": "मराठी",
+                            "info": "मूलभूत वक्ता; लिखित और मौखिक मराठी में मजबूत समझ।",
+                            "tags": ["Native"]
+                        },
+                        "mr": {
+                            "title": "मराठी",
+                            "info": "मूळ भाषा म्हणून प्रावीण्य; लिखित व संभाषणात चांगली समज.",
+                            "tags": ["Native"]
+                        }
+                    }
+                }
+            ]
+        }
+
+    ]
+}

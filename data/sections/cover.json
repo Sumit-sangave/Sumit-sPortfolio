@@ -1,0 +1,352 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Sumit Sangave!**"
+        },
+
+        "hi": {
+            "title": "स्वागत है!",
+            "title_menu": "मेरे बारे में",
+            "title_long_prefix": "नमस्ते...",
+            "title_long": "मैं **Sumit Sangave** हूँ!"
+        },
+
+        "mr": {
+            "title": "स्वागत!",
+            "title_menu": "माझ्याबद्दल",
+            "title_long_prefix": "नमस्कार...",
+            "title_long": "मी **Sumit Sangave** आहे!"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {}
+            },
+
+            "items": [
+                {
+                    "value": "Cupertino – CA",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "sumitsangave2631@gmail.com",
+                    "links": [
+                        {"href": "mailto:sumitsangave2631@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@Sumit-sangave",
+                    "links": [
+                        {"href": "https://github.com/Sumit-sangave"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "hi": {"title": "मेरे **बारे में कुछ**..."},
+                "mr": {"title": "माझ्याबद्दल **थोडेसे**..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "<p>I'm Sumit, a passionate <b>Full-Stack Developer</b> and <b>AI Innovator</b> who loves turning creative ideas into impactful digital solutions. I specialize in React, Django REST Framework, and Python, building intelligent, user-friendly, and scalable applications.</p><p>From developing real-time collaboration platforms to AI-powered learning tools and IoT-based systems, I enjoy exploring new technologies and crafting experiences that make a difference.My journey blends logic, creativity, and continuous learning — and I'm always excited to build something that <b>inspires others!</b></p><p><b>I look forward to collaborating with you!</b></p>"},
+                        "hi": {"text": "<p>मैं सुमित हूं, एक भावुक <b>फुल-स्टैक डेवलपर</b> और <b>AI इनोवेटर</b> जो रचनात्मक विचारों को प्रभावशाली डिजिटल समाधानों में बदलना पसंद करता है। मैं React, Django REST Framework, और Python में विशेषज्ञता रखता हूं, बुद्धिमान, उपयोगकर्ता-अनुकूल और स्केलेबल एप्लिकेशन बनाता हूं।</p><p>रियल-टाइम सहयोग प्लेटफॉर्म से लेकर AI-संचालित लर्निंग टूल्स और IoT-आधारित सिस्टम तक, मुझे नई तकनीकों का अन्वेषण करना और ऐसे अनुभव बनाना पसंद है जो फर्क लाते हैं। मेरी यात्रा तर्क, रचनात्मकता और निरंतर सीखने को मिलाती है — और मैं हमेशा कुछ ऐसा बनाने के लिए उत्साहित रहता हूं जो <b>दूसरों को प्रेरित करे!</b></p><p><b>मैं आपके साथ सहयोग करने के लिए उत्सुक हूँ!</b></p>"},
+                        "mr": {"text": "<p>मी सुमित आहे, एक भावुक <b>फुल-स्टॅक डेव्हलपर</b> आणि <b>AI इनोव्हेटर</b> जो कल्पक कल्पनांना प्रभावी डिजिटल उपायांमध्ये रूपांतरित करणे आवडते. मी React, Django REST Framework, आणि Python मध्ये तज्ज्ञ आहे, बुद्धिमान, वापरकर्ता-अनुकूल आणि स्केलेबल अनुप्रयोग तयार करतो.</p><p>रिअल-टाइम सहकार्य प्लॅटफॉर्म विकसित करण्यापासून AI-चालित शिक्षण साधने आणि IoT-आधारित सिस्टम्स पर्यंत, मला नवीन तंत्रज्ञानांचा शोध घेणे आणि फरक करणारे अनुभव तयार करणे आवडते.माझा प्रवास तर्क, निर्मिती आणि सतत शिक्षण यांचे मिश्रण आहे — आणि मी नेहमी काहीतरी तयार करण्यासाठी उत्सुक असतो जे <b>इतरांना प्रेरणा देते!</b></p><p><b>मी तुमच्यासोबत सहकार्य करण्यास उत्सुक आहे!</b></p>"}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Client **testimonials**"},
+                "hi": {"title": "ग्राहक **प्रशंसापत्र**"},
+                "mr": {"title": "क्लायंट **प्रशंसापत्र**"}
+            },
+
+            "items": [
+                {
+                    "value": "Disha Honmane",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-1.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Data Analyst at <b>DataPhi<b>",
+                            "text": "A creative thinker with a sharp eye for design and detail, he quickly adapts to new technologies and delivers innovative, precise solutions through strong technical and problem-solving skills."
+                        },
+                        "hi": {
+                            "info": "<b>डेटाफाई<b> में डेटा विश्लेषक",
+                            "text": "डिज़ाइन और विवरण के प्रति तेज़ नज़र रखने वाली एक रचनात्मक विचारक — वह नई तकनीकों को जल्दी अपनाते हैं और मजबूत तकनीकी व समस्या-समाधान कौशल के माध्यम से नवाचारी, सटीक समाधान प्रदान करते हैं।"
+                        },
+                        "mr": {
+                            "info": "<b>DataPhi<b> येथे डेटा विश्लेषक",
+                            "text": "डिझाइन आणि तपशिलांकडे तिखट नजरेचा एक सर्जनशील विचारवंत — तो नवीन तंत्रज्ञान झटपट आत्मसात करतो आणि मजबूत तांत्रिक व समस्या-निवारण कौशल्यांद्वारे नवोन्मेषी, अचूक उपाय प्रदान करतो."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Prof. Balkrushna Jagdale",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-2.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Professor at <b>SKNSCOE</b>",
+                            "text": "Sumit is a talented and driven programmer who transforms ideas into innovative solutions. His strong problem-solving skills, deep technical expertise, and creative mindset make him stand out in the world of programming."
+                        },
+                        "hi": {
+                            "info": "<b>SKNSCOE</b> येथे प्राध्यापक",
+                            "text": "सुमित एक प्रतिभाशाली और प्रेरित प्रोग्रामर हैं जो विचारों को नवाचारी समाधानों में बदल देते हैं। उनकी मजबूत समस्या-समाधान क्षमताएँ, गहरी तकनीकी विशेषज्ञता और रचनात्मक सोच उन्हें प्रोग्रामिंग के क्षेत्र में अलग बनाती हैं।"
+                        },
+                        "mr": {
+                            "info": "<b>SKNSCOE</b> में प्रोफेसर",
+                            "text": "सुमित एक प्रतिभावान आणि प्रेरित प्रोग्रामर आहेत जे कल्पनांना नवोन्मेषी उपायांमध्ये रूपांतरित करतात. त्यांची मजबूत समस्या-निवारण कौशल्ये, खोल तांत्रिक कौशल्ये आणि सर्जनशील मनोवृत्ती त्यांना प्रोग्रामिंग विश्वात वेगळे ठरवते."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Vaibhav Survase",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-3.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Teammate, <b>HackBreakers</b>",
+                            "text": "Sumit is a collaborative and creative programmer who brings energy and innovation to every project. With a knack for out-of-the-box thinking, he tackles challenges with enthusiasm—whether debugging complex issues or developing new features with his team."
+                        },
+                        "hi": {
+                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
+                            "text": "सुमित एक सहयोगी और रचनात्मक प्रोग्रामर हैं जो हर प्रोजेक्ट में ऊर्जा और नवाचार लाते हैं। बॉक्स के बाहर सोचने की उनकी कला के साथ, वे उत्साह के साथ चुनौतियों का सामना करते हैं—चाहे जटिल बग ठीक करना हो या टीम के साथ नई सुविधाएँ विकसित करना हो।"
+                        },
+                        "mr": {
+                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
+                            "text": "सुमित एक सहकार्यशील आणि सर्जनशील प्रोग्रामर आहेत जे प्रत्येक प्रकल्पात ऊर्जा आणि नाविन्य आणतात. बॉक्सबाहेर विचार करण्याच्या त्यांच्या निपुणतेमुळे ते उत्साहाने आव्हानांना सामोरे जातात — जटिल बग दुरुस्त करणे असो किंवा टीमसोबत नवीन फिचर्स विकसित करणे असो."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Yash Reddy",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-4.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Teammate, <b>HackBreakers</b>",
+                            "text": "Sumit combines technical expertise with artistic creativity, crafting solutions that are both efficient and innovative. His sharp attention to detail and strong problem-solving mindset make him a valuable and inspiring teammate on any project."
+                        },
+                        "hi": {
+                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
+                            "text": "सुमित तकनीकी विशेषज्ञता और कलात्मक रचनात्मकता को मिलाते हैं, ऐसे समाधान तैयार करते हैं जो सक्षम और नवाचारी दोनों होते हैं। ध्यान में उनके तीव्रता और मजबूत समस्या-समाधान मानसिकता उन्हें किसी भी प्रोजेक्ट के लिए मूल्यवान और प्रेरणादायक साथी बनाती है।"
+                        },
+                        "mr": {
+                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
+                            "text": "सुमित तांत्रिक कौशल्य आणि कलात्मक सर्जनशीलता एकत्र करतात, असे समाधान तयार करतात जे प्रभावी आणि नवोन्मेषी आहेत. तपशीलांकडे त्यांचे तीक्ष्ण लक्ष आणि प्रबल समस्या-निवारण मनोवृत्ती त्यांना कोणत्याही प्रकल्पात एक मौल्यवान आणि प्रेरणादायी सहकारी बनवते."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Ranjit Chavan",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/avatar.jpg", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Teammate, <b>HackBreakers</b>",
+                            "text": "Sumit is one of those teammates who makes problem-solving look effortless. He’s always ready to dive into complex challenges and find smart, efficient solutions. His ability to merge logic with creativity adds a unique edge to our projects"
+                        },
+                        "hi": {
+                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
+                            "text": "सुमित उन टीममेट्स में से हैं जो समस्या-समाधान को सहज बनाकर दिखाते हैं। वे हमेशा जटिल चुनौतियों में कूदने और स्मार्ट, कुशल समाधान खोजने के लिए तैयार रहते हैं। लॉजिक और रचनात्मकता को मिलाने की उनकी क्षमता हमारे प्रोजेक्ट्स को एक अनोखा फायदा देती है।"
+                        },
+                        "mr": {
+                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
+                            "text": "सुमित हे अशा टीममेट्स पैकी आहेत जे समस्या-निवारण सहज दिसते असं करतात. ते नेहमी जटिल आव्हानात उतरून स्मार्ट, कार्यक्षम तोडगे शोधायला तयार असतात. तर्कशास्त्र आणि सर्जनशीलता एकत्र करण्याची त्यांची क्षमता आमच्या प्रकल्पांना एक वेगळा फायदा देते."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Shital Chavan",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-1.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Teammate, <b>HackBreakers</b>",
+                            "text": "Having Sumit as a teammate means you’re always learning something new. His dedication to coding, curiosity for new technologies, and willingness to experiment with fresh ideas make every project more dynamic and interesting."
+                        },
+                        "hi": {
+                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
+                            "text": "सुमित को teammate के रूप में पाकर आप हमेशा कुछ नया सीखते रहते हैं। कोडिंग के प्रति उनकी प्रतिबद्धता, नई तकनीकों के लिए जिज्ञासा और ताज़ा विचारों के साथ प्रयोग करने की इच्छा हर प्रोजेक्ट को अधिक गतिशील और रोचक बनाती है।"
+                        },
+                        "mr": {
+                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
+                            "text": "सुमितला टीममेट म्हणून मिळाल्यावर तुम्ही नेहमी काहीतरी नवीन शिकत राहता. कोडिंगप्रती त्यांची समर्पणभावना, नव्या तंत्रज्ञानाबद्दलची जिज्ञासा आणि ताज्या कल्पना प्रयोगात आणण्याची तयारी प्रत्येक प्रकल्पाला अधिक गतिशील आणि रोचक बनवते."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Priti Chaugule",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-2.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Teammate, <b>HackBreakers</b>",
+                            "text": "Sumit is a true team player—always ready to collaborate, share ideas, and contribute to the success of the team. His ability to think critically while adding a creative touch makes him an irreplaceable part of our group."
+                        },
+                        "hi": {
+                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
+                            "text": "सुमित एक सच्चे टीम प्लेयर हैं—हमेशा सहयोग करने, विचार साझा करने और टीम की सफलता में योगदान देने के लिए तैयार। आलोचनात्मक सोच के साथ रचनात्मक स्पर्श जोड़ने की उनकी क्षमता उन्हें हमारी टीम का एक अनमोल सदस्य बनाती है।"
+                        },
+                        "mr": {
+                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
+                            "text": "सुमित खऱ्या अर्थाने टीम खेळाडू आहेत — नेहमी सहकार्य करण्यास, कल्पना शेअर करण्यास आणि टीमच्या यशात योगदान देण्यास तयार. गंभीरपणे विचार करताना रचनात्मक स्पर्श जोडण्याची त्यांची क्षमता त्यांना आमच्या गटाचा अविश्वसनीय भाग बनवते."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Mayuri Kulkarni",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-3.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Teammate, <b>HackBreakers</b>",
+                            "text": "Sumit’s passion for coding and art shines through in everything he creates. With a perfect balance of technical skill and creativity, he transforms ideas into innovative, high-quality projects—making every collaboration a truly inspiring experience."
+                        },
+                        "hi": {
+                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
+                            "text": "सुमित का कोडिंग और कला के लिए जुनून उनके हर निर्माण में झलकता है। तकनीकी कौशल और रचनात्मकता के संतुलन के साथ, वे विचारों को नवाचारी, उच्च-गुणवत्ता वाले प्रोजेक्ट्स में बदलते हैं — हर सहयोग को एक प्रेरणादायक अनुभव बनाते हैं।"
+                        },
+                        "mr": {
+                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
+                            "text": "सुमितचा कोडिंग आणि कला प्रत प्रति प्रेम त्यांच्या प्रत्येक निर्मितीत दिसून येतो. तांत्रिक कौशल्य आणि सर्जनशीलतेचा परिपूर्ण समतोल ठेऊन ते कल्पना नवोन्मेषी, उच्च-गुणवत्तेच्या प्रकल्पांमध्ये रूपांतरित करतात — प्रत्येक सहकार्याला खरंच प्रेरणादायी अनुभव बनवतात."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "hi": {"title": "व्यक्तिगत **रुचियाँ**"},
+                "mr": {"title": "वैयक्तिक **आवडी**"}
+            },
+
+            "items": [
+
+                {
+                    "icon": { "img": null, "fa": "fa-solid fa-pencil-alt", "faColors": null },
+                    "value": null,
+                    "locales": {
+                        "en": { "title": "UX design", "info": "Studying user experience principles and creating wireframes and prototypes." },
+                        "hi": { "title": "UX डिज़ाइन", "info": "उपयोगकर्ता अनुभव के सिद्धांतों का अध्ययन और वायरफ़्रेम व प्रोटोटाइप बनाना।" },
+                        "mr": { "title": "UX डिझाइन", "info": "वापरकर्ता अनुभव तत्त्वांचा अभ्यास व वायरफ्रेम व प्रोटोटाइप तयार करणे." }
+                    }
+                },
+
+                {
+                    "icon": { "img": null, "fa": "fa-solid fa-code", "faColors": null },
+                    "value": null,
+                    "locales": {
+                        "en": { "title": "Coding", "info": "Practicing programming and building small projects to improve problem-solving and coding fluency." },
+                        "hi": { "title": "कोडिंग", "info": "प्रोग्रामिंग का अभ्यास और समस्या-समाधान व कोडिंग प्रवाह में सुधार के लिए छोटे प्रोजेक्ट बनाना।" },
+                        "mr": { "title": "कोडिंग", "info": "प्रोग्रामिंगचा सराव आणि समस्या-निवारण व कोडिंग कौशल्य सुधारण्यासाठी लहान प्रकल्प तयार करणे." }
+                    }
+                },
+
+                {
+                    "icon": { "img": null, "fa": "fa-solid fa-brain", "faColors": null },
+                    "value": null,
+                    "locales": {
+                        "en": { "title": "Problem Solving", "info": "Solving algorithmic puzzles and optimizing solutions to strengthen logical thinking." },
+                        "hi": { "title": "समस्या समाधान", "info": "तर्कशीलता मजबूत करने के लिए एल्गोरिथमिक पज़ल्स हल करना और समाधान अनुकूलित करना।" },
+                        "mr": { "title": "समस्या सोडवणे", "info": "तर्कशक्ती मजबूत करण्यासाठी अल्गोरिथ्मिक कोडे सोडवणे व उपाय अनुकूल करण्यावर काम." }
+                    }
+                },
+
+                {
+                    "icon": { "img": null, "fa": "fa-solid fa-user-tie", "faColors": null },
+                    "value": null,
+                    "locales": {
+                        "en": { "title": "Mentoring", "info": "Guiding peers, reviewing code, and sharing best practices to help others grow." },
+                        "hi": { "title": "मेंटोरिंग", "info": "सहकर्मियों का मार्गदर्शन, कोड समीक्षा और बेहतरीन अभ्यास साझा करना ताकि वे विकसित हों।" },
+                        "mr": { "title": "मार्गदर्शन", "info": "सहकर्मी मार्गदर्शन, कोड पुनरावलोकन आणि उत्तम पद्धती शेअर करून इतरांना वाढवणे." }
+                    }
+                },
+
+                {
+                    "icon": { "img": null, "fa": "fa-solid fa-paint-brush", "faColors": null },
+                    "value": null,
+                    "locales": {
+                        "en": { "title": "Sketching", "info": "Quick visual exploration of ideas and low-fidelity UI mockups." },
+                        "hi": { "title": "स्केचिंग", "info": "विचारों की त्वरित दृश्य खोज और लो-फिडेलिटी UI मॉकअप बनाना।" },
+                        "mr": { "title": "स्केचिंग", "info": "कल्पनांचा वेगवान दृष्य शोध आणि लो-फिडेलिटी UI मॉकअप तयार करणे." }
+                    }
+                },
+
+                {
+                    "icon": { "img": null, "fa": "fa-solid fa-guitar", "faColors": null },
+                    "value": null,
+                    "locales": {
+                        "en": { "title": "Playing guitar", "info": "Practicing chords, songwriting, and jamming to improve technique and creativity." },
+                        "hi": { "title": "गिटार बजाना", "info": "कॉर्ड्स का अभ्यास, गीत लेखन और जेमिंग से तकनीक और रचनात्मकता में सुधार।" },
+                        "mr": { "title": "गिटार वादन", "info": "कॉर्डचा सराव, गाणी लिहिणे आणि जॅमिंग करून तंत्र व सर्जनशीलता वाढवणे." }
+                    }
+                }
+            ]
+        }
+    ]
+}
