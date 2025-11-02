@@ -1,0 +1,27 @@
+@import "/src/styles/extend";
+
+.article-side-by-side {
+    .side-section {
+        .section-title-with-line {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1rem;
+            
+            .section-title {
+                margin: 0;
+                font-weight: bold;
+                font-size: 1.25rem;
+                color: var(--bs-primary);
+                margin-right: 1rem;
+                white-space: nowrap;
+            }
+            
+            .title-line {
+                flex: 1;
+                height: 2px;
+                background: linear-gradient(90deg, #28a745 0%, #28a745 100%);
+                border-radius: 1px;
+            }
+        }
+    }
+}

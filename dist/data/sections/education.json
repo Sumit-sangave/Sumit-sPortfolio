@@ -1,0 +1,129 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        },
+
+        "hi": {
+            "title": "शिक्षा",
+            "title_long_prefix": "यह मेरी",
+            "title_long": "**शैक्षिक** पृष्ठभूमि"
+        },
+
+        "mr": {
+            "title": "शिक्षण",
+            "title_long_prefix": "ही माझी",
+            "title_long": "**शैक्षणिक** पार्श्वभूमी"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-5.png",
+                        "fa": "fa-solid fa-user-graduate",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "2023",
+                        "end": "2027"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor** in Computer Science and Engineering",
+                            "info": "SKNSCOE Pandharpur, Punyashlok Ahilyadevi Holkar University, Solapur",
+                            "text": "Persuing a Bachelor's degree in Computer Science and Engineering with a focus on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects and bootcamps.",
+                            "tags": []
+                        },
+                        "hi": {
+                            "title": "**स्नातक** कंप्यूटर साइंस और इंजीनियरिंग",
+                            "info": "SKNSCOE Pandharpur, Punyashlok Ahilyadevi Holkar University, Solapur",
+                            "text": "अल्गोरिथ्म, डेटा संरचनाएँ, सॉफ़्टवेयर इंजीनियरिंग और वेब डेवलपमेंट पर केंद्रित कंप्यूटर साइंस और इंजीनियरिंग में स्नातक की पढ़ाई कर रहा/रही हूँ। विभिन्न प्रोग्रामिंग प्रोजेक्ट और बूटकैम्प के माध्यम से व्यावहारिक अनुभव प्राप्त किया।",
+                            "tags": []
+                        },
+                        "mr": {
+                            "title": "**बॅचलर** कम्प्युटर सायन्स आणि अभियांत्रिकी",
+                            "info": "SKNSCOE Pandharpur, Punyashlok Ahilyadevi Holkar University, Solapur",
+                            "text": "अल्गोरिदम, डेटा स्ट्रक्चर्स, सॉफ्टवेअर इंजिनियरिंग आणि वेब डेव्हलपमेंटवर लक्ष केंद्रित करून कम्प्युटर सायन्स आणि अभियांत्रिकी मध्ये बॅचलर करत आहे. विविध प्रोग्रामिंग प्रकल्प आणि बूटकॅम्पद्वारे प्रत्यक्ष अनुभव मिळवला.",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-2.png",
+                        "fa": "fa-solid fa-school",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "2022",
+                        "end": "2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Higher** Secondary Education",
+                            "info": "Maharashtra State Board",
+                            "text": "Completed the Higher Secondary Education with a focus on Science stream. Developed a strong foundation in analytical thinking and problem-solving skills.",
+                            "tags": []
+                        },
+                        "hi": {
+                            "title": "**उच्च** माध्यमिक शिक्षा",
+                            "info": "Maharashtra State Board",
+                            "text": "विज्ञान धारणा में केंद्रित होकर उच्च माध्यमिक शिक्षा पूरी की। विश्लेषणात्मक सोच और समस्या-समाधान कौशल में मजबूत आधार विकसित किया।",
+                            "tags": []
+                        },
+                        "mr": {
+                            "title": "**उच्च** माध्यमिक शिक्षण",
+                            "info": "Maharashtra State Board",
+                            "text": "सायन्स शाखेत लक्ष केंद्रित करून उच्च माध्यमिक शिक्षण पूर्ण केले. विश्लेषणात्मक विचार आणि समस्या-निवारण कौशल्यांमध्ये मजबूत पाया तयार केला.",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-6.png",
+                        "fa": "fa-solid fa-book-open",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "2020",
+                        "end": "2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Secondary** Education",
+                            "info": "Maharashtra State Board",
+                            "text": "Completed the Secondary Education. Built a solid foundation in core scientific principles and analytical skills.",
+                            "tags": []
+                        },
+                        "hi": {
+                            "title": "**माध्यमिक** शिक्षा",
+                            "info": "Maharashtra State Board",
+                            "text": "माध्यमिक शिक्षा पूरी की। कोर वैज्ञानिक सिद्धांतों और विश्लेषणात्मक कौशल में ठोस आधार बनाया।",
+                            "tags": []
+                        },
+                        "mr": {
+                            "title": "**माध्यमिक** शिक्षण",
+                            "info": "Maharashtra State Board",
+                            "text": "माध्यमिक शिक्षण पूर्ण केले. मूलभूत वैज्ञानिक तत्त्वे आणि विश्लेषणात्मक कौशल्यांमध्ये ठोस पाया तयार केला.",
+                            "tags": []
+                        }
+                    }
+                }
+
+            ]
+        }
+    ]
+}

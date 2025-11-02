@@ -1,0 +1,191 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        },
+
+        "hi": {
+            "title": "पुरस्कार",
+            "title_menu": "उपलब्धियां",
+            "title_long_prefix": "यहां हैं मेरी",
+            "title_long": "कार्य **उपलब्धियां**"
+        },
+
+        "mr": {
+            "title": "पुरस्कार",
+            "title_menu": "यशस्वीता",
+            "title_long_prefix": "येथे आहेत माझ्या",
+            "title_long": "करिअर **यशस्वीता**"
+        }
+    },
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" },
+                "hi": { "title": "प्रमाणपत्र" },
+                "mr": { "title": "प्रमाणपत्रे" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "/images/pictures/microsoft.png",
+                        "fa": null,
+                        "faColors": {"bg": "#ffff", "fill": "#ffff"}
+                    },
+                    "dates": {
+                        "start": "9/18/2025",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/file/d/1CDwYCDeIrT2-2aNgVEWvLGelJwhmwuMW/view?usp=drive_link" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Microsoft** Fabric Data Engineer Associate",
+                            "text": "Microsoft Certified as Fabric Data Engineer"
+                        },
+                        "hi": {
+                            "title": "**Microsoft** Fabric Data Engineer Associate",
+                            "text": "Microsoft द्वारा Fabric Data Engineer के रूप में प्रमाणित"
+                        },
+                        "mr": {
+                            "title": "**Microsoft** Fabric Data Engineer Associate",
+                            "text": "Microsoft द्वारे Fabric Data Engineer म्हणून प्रमाणित."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "/images/pictures/oracle.png",
+                        "faColors": {"bg": "#ffff", "fill": "#ffff"}
+                    },
+                    "dates": {
+                        "start": "05/05/2021",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/file/d/1o_iGFnwqaZZgQX5QLOidDP2k7_Ce-C1m/view?usp=drive_link" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Oracle** OCI AI Foundations",
+                            "text": "Oracle Certified in OCI AI Foundations, showcasing knowledge of AI solutions."
+                        },
+                        "hi": {
+                            "title": "**Oracle** OCI AI Foundations",
+                            "text": "OCI AI Foundations में Oracle प्रमाणित, AI समाधानों के ज्ञान का प्रदर्शन।"
+                        },
+                        "mr": {
+                            "title": "**Oracle** OCI AI Foundations",
+                            "text": "OCI AI Foundations मध्ये Oracle प्रमाणित, AI उपायांबद्दलचे ज्ञान दर्शविते."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "/images/pictures/oracle.png",
+                        "faColors": {"bg": "#ffff", "fill": "#ffff"}
+                    },
+                    "dates": {
+                        "start": "9/13/2025",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/file/d/1o_iGFnwqaZZgQX5QLOidDP2k7_Ce-C1m/view?usp=drive_link" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**OCI** Foundations",
+                            "text": "Oracle Certified in OCI Foundations, showcasing knowledge of OCI solutions."
+                        },
+                        "hi": {
+                            "title": "**OCI** Foundations",
+                            "text": "OCI Foundations में Oracle प्रमाणित, OCI समाधानों के ज्ञान का प्रदर्शन।"
+                        },
+                        "mr": {
+                            "title": "**OCI** Foundations",
+                            "text": "OCI Foundations मध्ये Oracle प्रमाणित, OCI उपायांबद्दलचे ज्ञान दर्शविते."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "/images/pictures/sknhackathon.jpg",
+                        "faColors": {"bg": "#ffff", "fill": "#ffff"}
+                    },
+                    "dates": {
+                        "start": "9/6/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://drive.google.com/file/d/1mfc23kvmym8RAFg98ABWmkZzaiCDtUI3/view?usp=drive_link" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Hakcthon Certification",
+                            "text": "Secured 1st place in the Hackthon competition, showcasing knowledge of web development and problem solving skills."
+                        },
+                        "hi": {
+                            "title": "हैकथॉन प्रमाणपत्र",
+                            "text": "हैकथॉन प्रतियोगिता में प्रथम स्थान प्राप्त किया, वेब विकास और समस्या-समाधान कौशल के ज्ञान का प्रदर्शन।"
+                        },
+                        "mr": {
+                            "title": "हॅकथॉन प्रमाणपत्र",
+                            "text": "हॅकथॉन स्पर्धेत पहिले स्थान मिळवले, वेब विकास आणि समस्या सोडवण्याच्या कौशल्यांचे ज्ञान दर्शविते."
+                        }
+                    }
+                }
+
+            ]
+        },
+
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Awards" },
+                "hi": { "title": "पुरस्कार" },
+                "mr": { "title": "पुरस्कार" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "09/06/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://github.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**1st Place** In Hackathon",
+                            "info": "SKNSCOE",
+                            "text": "Secured 1st place in the Hackthon competition, showcasing knowledge of web development and problem solving skills."
+                        },
+                        "hi": {
+                            "title": "हैकथॉन में **प्रथम स्थान**",
+                            "info": "SKNSCOE",
+                            "text": "हैकथॉन प्रतियोगिता में प्रथम स्थान प्राप्त किया, वेब विकास और समस्या-समाधान कौशल के ज्ञान का प्रदर्शन।"
+                        },
+                        "mr": {
+                            "title": "हॅकथॉन मध्ये **पहिले स्थान**",
+                            "info": "SKNSCOE",
+                            "text": "हॅकथॉन स्पर्धेत पहिले स्थान मिळवले, वेब विकास आणि समस्या सोडवण्याच्या कौशल्यांचे ज्ञान दर्शविते."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

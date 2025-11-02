@@ -1,0 +1,49 @@
+@import "/src/styles/extend";
+
+.swiper-full-width {
+    height: 100%;
+    user-select: none;
+
+    /* Ensure swiper wrapper displays slides properly */
+    .swiper-wrapper {
+        display: flex;
+        align-items: stretch;
+    }
+
+    /* ensure slides stretch to full height so inner cards can use height:100% */
+    .swiper-slide {
+        height: 100% !important;
+        display: flex;
+        align-items: stretch;
+        padding-bottom: 30px;
+    }
+
+    /* ensure custom slides use full width/height and inner content can stretch */
+    .custom-swiper-slide {
+        display: flex;
+        align-items: stretch;
+        width: 100%;
+        height: 100% !important;
+        
+        /* Ensure any child card fills the slide */
+        > * {
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+    .swiper-content {
+        height: 100% !important;
+    }
+
+    /* Make cards larger when displaying 2 cards */
+    &.swiper-slides-per-view-2 {
+        .swiper-slide {
+            min-height: 300px;
+        }
+        
+        .custom-swiper-slide {
+            min-height: 300px;
+        }
+    }
+}

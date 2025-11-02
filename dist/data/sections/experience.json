@@ -1,0 +1,64 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+
+        "hi": {
+            "title": "अनुभव",
+            "title_long_prefix": "मेरे काम का सारांश",
+            "title_long": "**कार्य** अनुभव"
+        },
+
+        "mr": {
+            "title": "अनुभव",
+            "title_long_prefix": "माझ्या कामाचा सारांश",
+            "title_long": "**कामाचा** अनुभव"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-graduation-cap",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Fresh Graduate**",
+                            "info": "Ready to Start Career",
+                            "text": "Recently graduated and eager to apply my skills in a professional environment. Passionate about learning new technologies and contributing to meaningful projects.",
+                            "tags": ["Learning", "Motivated", "Ready"]
+                        },
+                        "hi": {
+                            "title": "**नया स्नातक**",
+                            "info": "करियर शुरू करने के लिए तैयार",
+                            "text": "हाल ही में स्नातक हुआ और पेशेवर वातावरण में अपने कौशल को लागू करने के लिए उत्सुक। नई तकनीकों को सीखने और सार्थक परियोजनाओं में योगदान देने के लिए भावुक।",
+                            "tags": ["सीखना", "प्रेरित", "तैयार"]
+                        },
+                        "mr": {
+                            "title": "**नवीन पदवीधर**",
+                            "info": "करिअर सुरू करण्यासाठी तयार",
+                            "text": "अलीकडे पदवीधर झालो आणि व्यावसायिक वातावरणात माझी कौशल्ये लागू करण्यासाठी उत्सुक आहे. नवीन तंत्रज्ञान शिकण्यासाठी आणि अर्थपूर्ण प्रकल्पांमध्ये योगदान देण्यासाठी भावुक आहे.",
+                            "tags": ["शिकणे", "प्रेरित", "तयार"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

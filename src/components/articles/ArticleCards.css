@@ -1,0 +1,20 @@
+/* Ensure the font is loaded */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap');
+
+.section-title h2 {
+    font-family: 'Fira Code', monospace;  /* Match the sidebar font */
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    font-size: 1.5rem;
+}
+
+/* Increase width of certification cards */
+.article-cards {
+    .swiper-slide {
+        min-width: 400px;
+    }
+    
+    .info-card {
+        min-width: 100%;
+    }
+}

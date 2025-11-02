@@ -1,0 +1,42 @@
+@import "/src/styles/extend";
+
+.info-card {
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+    .card-body {
+        display: flex;
+        flex-direction: column;
+        flex: 1 1 auto;
+    }
+
+    .info {
+        text-align: center;
+        width: 100%;
+        flex: 1 1 auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .circle-avatar {
+        border-color: var(--theme-soft-3);
+        background-color: var(--theme-tag-color);
+        @include media-breakpoint-down(md) {
+            border-width: 4px;
+        }
+    }
+
+    .card-footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: var(--theme-soft-2);
+        margin-top: auto;
+
+        .info-badge {
+            min-width: 130px;
+        }
+    }
+}
