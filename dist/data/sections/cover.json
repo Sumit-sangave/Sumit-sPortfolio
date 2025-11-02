@@ -32,23 +32,11 @@
             },
             "locales": {
                 "en": {},
-                "es": {},
-                "fr": {},
-                "ko": {}
+                "hi": {},
+                "mr": {}
             },
 
             "items": [
-                {
-                    "value": "Cupertino – CA",
-                    "links": [
-                        {"href": null}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-city",
-                        "faColors": {"bg": null, "fill": null}
-                    }
-                },
                 {
                     "value": "sumitsangave2631@gmail.com",
                     "links": [
@@ -112,26 +100,6 @@
 
             "items": [
                 {
-                    "value": "Disha Honmane",
-                    "links": [ {"href": null} ],
-                    "icon": { "img": "images/pictures/person-1.png", "fa": "fa-solid fa-user", "faColors": null },
-                    "locales": {
-                        "en": {
-                            "info": "Data Analyst at <b>DataPhi<b>",
-                            "text": "A creative thinker with a sharp eye for design and detail, he quickly adapts to new technologies and delivers innovative, precise solutions through strong technical and problem-solving skills."
-                        },
-                        "hi": {
-                            "info": "<b>डेटाफाई<b> में डेटा विश्लेषक",
-                            "text": "डिज़ाइन और विवरण के प्रति तेज़ नज़र रखने वाली एक रचनात्मक विचारक — वह नई तकनीकों को जल्दी अपनाते हैं और मजबूत तकनीकी व समस्या-समाधान कौशल के माध्यम से नवाचारी, सटीक समाधान प्रदान करते हैं।"
-                        },
-                        "mr": {
-                            "info": "<b>DataPhi<b> येथे डेटा विश्लेषक",
-                            "text": "डिझाइन आणि तपशिलांकडे तिखट नजरेचा एक सर्जनशील विचारवंत — तो नवीन तंत्रज्ञान झटपट आत्मसात करतो आणि मजबूत तांत्रिक व समस्या-निवारण कौशल्यांद्वारे नवोन्मेषी, अचूक उपाय प्रदान करतो."
-                        }
-                    }
-                },
-
-                {
                     "value": "Prof. Balkrushna Jagdale",
                     "links": [ {"href": null} ],
                     "icon": { "img": "images/pictures/person-2.png", "fa": "fa-solid fa-user", "faColors": null },
@@ -147,6 +115,26 @@
                         "mr": {
                             "info": "<b>SKNSCOE</b> में प्रोफेसर",
                             "text": "सुमित एक प्रतिभावान आणि प्रेरित प्रोग्रामर आहेत जे कल्पनांना नवोन्मेषी उपायांमध्ये रूपांतरित करतात. त्यांची मजबूत समस्या-निवारण कौशल्ये, खोल तांत्रिक कौशल्ये आणि सर्जनशील मनोवृत्ती त्यांना प्रोग्रामिंग विश्वात वेगळे ठरवते."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Disha Honmane",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-1.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Data Analyst at <b>DataPhi<b>",
+                            "text": "A creative thinker with a sharp eye for design and detail, he quickly adapts to new technologies and delivers innovative, precise solutions through strong technical and problem-solving skills."
+                        },
+                        "hi": {
+                            "info": "<b>डेटाफाई<b> में डेटा विश्लेषक",
+                            "text": "डिज़ाइन और विवरण के प्रति तेज़ नज़र रखने वाली एक रचनात्मक विचारक — वह नई तकनीकों को जल्दी अपनाते हैं और मजबूत तकनीकी व समस्या-समाधान कौशल के माध्यम से नवाचारी, सटीक समाधान प्रदान करते हैं।"
+                        },
+                        "mr": {
+                            "info": "<b>DataPhi<b> येथे डेटा विश्लेषक",
+                            "text": "डिझाइन आणि तपशिलांकडे तिखट नजरेचा एक सर्जनशील विचारवंत — तो नवीन तंत्रज्ञान झटपट आत्मसात करतो आणि मजबूत तांत्रिक व समस्या-निवारण कौशल्यांद्वारे नवोन्मेषी, अचूक उपाय प्रदान करतो."
                         }
                     }
                 },
@@ -172,6 +160,26 @@
                 },
 
                 {
+                    "value": "Shital Chavan",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-6.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Teammate, <b>HackBreakers</b>",
+                            "text": "Having Sumit as a teammate means you’re always learning something new. His dedication to coding, curiosity for new technologies, and willingness to experiment with fresh ideas make every project more dynamic and interesting."
+                        },
+                        "hi": {
+                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
+                            "text": "सुमित को teammate के रूप में पाकर आप हमेशा कुछ नया सीखते रहते हैं। कोडिंग के प्रति उनकी प्रतिबद्धता, नई तकनीकों के लिए जिज्ञासा और ताज़ा विचारों के साथ प्रयोग करने की इच्छा हर प्रोजेक्ट को अधिक गतिशील और रोचक बनाती है।"
+                        },
+                        "mr": {
+                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
+                            "text": "सुमितला टीममेट म्हणून मिळाल्यावर तुम्ही नेहमी काहीतरी नवीन शिकत राहता. कोडिंगप्रती त्यांची समर्पणभावना, नव्या तंत्रज्ञानाबद्दलची जिज्ञासा आणि ताज्या कल्पना प्रयोगात आणण्याची तयारी प्रत्येक प्रकल्पाला अधिक गतिशील आणि रोचक बनवते."
+                        }
+                    }
+                },
+
+                {
                     "value": "Yash Reddy",
                     "links": [ {"href": null} ],
                     "icon": { "img": "images/pictures/person-4.png", "fa": "fa-solid fa-user", "faColors": null },
@@ -192,49 +200,9 @@
                 },
 
                 {
-                    "value": "Ranjit Chavan",
-                    "links": [ {"href": null} ],
-                    "icon": { "img": "images/pictures/avatar.jpg", "fa": "fa-solid fa-user", "faColors": null },
-                    "locales": {
-                        "en": {
-                            "info": "Teammate, <b>HackBreakers</b>",
-                            "text": "Sumit is one of those teammates who makes problem-solving look effortless. He’s always ready to dive into complex challenges and find smart, efficient solutions. His ability to merge logic with creativity adds a unique edge to our projects"
-                        },
-                        "hi": {
-                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
-                            "text": "सुमित उन टीममेट्स में से हैं जो समस्या-समाधान को सहज बनाकर दिखाते हैं। वे हमेशा जटिल चुनौतियों में कूदने और स्मार्ट, कुशल समाधान खोजने के लिए तैयार रहते हैं। लॉजिक और रचनात्मकता को मिलाने की उनकी क्षमता हमारे प्रोजेक्ट्स को एक अनोखा फायदा देती है।"
-                        },
-                        "mr": {
-                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
-                            "text": "सुमित हे अशा टीममेट्स पैकी आहेत जे समस्या-निवारण सहज दिसते असं करतात. ते नेहमी जटिल आव्हानात उतरून स्मार्ट, कार्यक्षम तोडगे शोधायला तयार असतात. तर्कशास्त्र आणि सर्जनशीलता एकत्र करण्याची त्यांची क्षमता आमच्या प्रकल्पांना एक वेगळा फायदा देते."
-                        }
-                    }
-                },
-
-                {
-                    "value": "Shital Chavan",
-                    "links": [ {"href": null} ],
-                    "icon": { "img": "images/pictures/person-1.png", "fa": "fa-solid fa-user", "faColors": null },
-                    "locales": {
-                        "en": {
-                            "info": "Teammate, <b>HackBreakers</b>",
-                            "text": "Having Sumit as a teammate means you’re always learning something new. His dedication to coding, curiosity for new technologies, and willingness to experiment with fresh ideas make every project more dynamic and interesting."
-                        },
-                        "hi": {
-                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
-                            "text": "सुमित को teammate के रूप में पाकर आप हमेशा कुछ नया सीखते रहते हैं। कोडिंग के प्रति उनकी प्रतिबद्धता, नई तकनीकों के लिए जिज्ञासा और ताज़ा विचारों के साथ प्रयोग करने की इच्छा हर प्रोजेक्ट को अधिक गतिशील और रोचक बनाती है।"
-                        },
-                        "mr": {
-                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
-                            "text": "सुमितला टीममेट म्हणून मिळाल्यावर तुम्ही नेहमी काहीतरी नवीन शिकत राहता. कोडिंगप्रती त्यांची समर्पणभावना, नव्या तंत्रज्ञानाबद्दलची जिज्ञासा आणि ताज्या कल्पना प्रयोगात आणण्याची तयारी प्रत्येक प्रकल्पाला अधिक गतिशील आणि रोचक बनवते."
-                        }
-                    }
-                },
-
-                {
                     "value": "Priti Chaugule",
                     "links": [ {"href": null} ],
-                    "icon": { "img": "images/pictures/person-2.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "icon": { "img": "images/pictures/person-7.png", "fa": "fa-solid fa-user", "faColors": null },
                     "locales": {
                         "en": {
                             "info": "Teammate, <b>HackBreakers</b>",
@@ -252,9 +220,29 @@
                 },
 
                 {
+                    "value": "Ranjit Chavan",
+                    "links": [ {"href": null} ],
+                    "icon": { "img": "images/pictures/person-5.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "locales": {
+                        "en": {
+                            "info": "Teammate, <b>HackBreakers</b>",
+                            "text": "Sumit is one of those teammates who makes problem-solving look effortless. He’s always ready to dive into complex challenges and find smart, efficient solutions. His ability to merge logic with creativity adds a unique edge to our projects"
+                        },
+                        "hi": {
+                            "info": "टीममेट, <b>हैकब्रेकर्स</b>",
+                            "text": "सुमित उन टीममेट्स में से हैं जो समस्या-समाधान को सहज बनाकर दिखाते हैं। वे हमेशा जटिल चुनौतियों में कूदने और स्मार्ट, कुशल समाधान खोजने के लिए तैयार रहते हैं। लॉजिक और रचनात्मकता को मिलाने की उनकी क्षमता हमारे प्रोजेक्ट्स को एक अनोखा फायदा देती है।"
+                        },
+                        "mr": {
+                            "info": "टीममेट, <b>हॅकब्रेकर्स</b>",
+                            "text": "सुमित हे अशा टीममेट्स पैकी आहेत जे समस्या-निवारण सहज दिसते असं करतात. ते नेहमी जटिल आव्हानात उतरून स्मार्ट, कार्यक्षम तोडगे शोधायला तयार असतात. तर्कशास्त्र आणि सर्जनशीलता एकत्र करण्याची त्यांची क्षमता आमच्या प्रकल्पांना एक वेगळा फायदा देते."
+                        }
+                    }
+                },
+
+                {
                     "value": "Mayuri Kulkarni",
                     "links": [ {"href": null} ],
-                    "icon": { "img": "images/pictures/person-3.png", "fa": "fa-solid fa-user", "faColors": null },
+                    "icon": { "img": "images/pictures/person-8.png", "fa": "fa-solid fa-user", "faColors": null },
                     "locales": {
                         "en": {
                             "info": "Teammate, <b>HackBreakers</b>",

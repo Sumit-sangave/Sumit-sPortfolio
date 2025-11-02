@@ -29,7 +29,7 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-5.png",
+                        "img": "images/pictures/sknhackathon.jpg",
                         "fa": "fa-solid fa-user-graduate",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -61,7 +61,7 @@
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-2.png",
+                        "img": "images/pictures/svm.jpg",
                         "fa": "fa-solid fa-school",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -93,7 +93,7 @@
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-6.png",
+                        "img": "images/pictures/svm.jpg",
                         "fa": "fa-solid fa-book-open",
                         "faColors": {"bg": null, "fill": null}
                     },

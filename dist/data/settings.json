@@ -58,13 +58,13 @@
         {
             "name": "हिन्दी",
             "id": "hi",
-            "flagUrl": "images/flags/hi.png"
+            "flagUrl": "images/flags/in.svg"
         },
 
         {
             "name": "मराठी",
             "id": "mr",
-            "flagUrl": "images/flags/mr.png"
+            "flagUrl": "images/flags/in.svg"
         }
     ],
 
