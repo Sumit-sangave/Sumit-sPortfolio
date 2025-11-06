@@ -38,6 +38,17 @@
 
             "items": [
                 {
+                    "value": "See my resume",
+                    "links": [
+                        {"href": "https://drive.google.com/file/d/1YQ9g6cWnIqMeh2HmKHgzzl1j49pz3wou/view?usp=drive_link"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-file-lines",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
                     "value": "sumitsangave2631@gmail.com",
                     "links": [
                         {"href": "mailto:sumitsangave2631@gmail.com"}
