@@ -134,6 +134,31 @@
                 {
                     "icon": {
                         "img": null,
+                        "fa": "fa-solid fa-infinity",
+                        "faColors": {
+                            "bg": "#4a90e2",
+                            "fill": "#ffffff"
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Infinite",
+                            "info": "Passion for learning"
+                        },
+                        "hi": {
+                            "title": "अनंत",
+                            "info": "सीखने का जुनून"
+                        },
+                        "mr": {
+                            "title": "अनंत",
+                            "info": "शिकण्याची आवड"
+                        }
+                    }
+                },
+                      
+                {
+                    "icon": {
+                        "img": null,
                         "fa": "fa-solid fa-coffee",
                         "faColors": {
                             "bg": "#6f4e37",
@@ -181,15 +206,15 @@
                     "locales": {
                         "en": {
                             "title": "Started my own **YouTube channel**!",
-                            "text": "Launched a YouTube channel focused on programming tutorials, sharing insights and techniques on various technologies, and engaging with a community of aspiring developers."
+                            "text": "Launched a <b>YouTube channel</b> focused on <b>programming tutorials, sharing insights and techniques on various technologies</b>, and engaging with a community of aspiring developers."
                         },
                         "hi": {
                             "title": "अपना **YouTube channel** शुरू किया!",
-                            "text": "एक YouTube channel लॉन्च किया जो प्रोग्रामिंग ट्यूटोरियल पर केंद्रित है, विभिन्न तकनीकों पर अंतर्दृष्टि और तकनीक साझा करना, और उभरते डेवलपर्स के समुदाय के साथ जुड़ना।"
+                            "text": "एक <b>YouTube channel</b> लॉन्च किया जो <b>प्रोग्रामिंग ट्यूटोरियल पर केंद्रित है, विभिन्न तकनीकों पर अंतर्दृष्टि और तकनीक साझा करना</b>, और उभरते डेवलपर्स के समुदाय के साथ जुड़ना।"
                         },
                         "mr": {
                             "title": "माझे स्वतःचे **YouTube channel** सुरू केले!",
-                            "text": "प्रोग्रामिंग ट्यूटोरियलवर लक्ष केंद्रित करणारा YouTube channel लॉन्च केला, विविध तंत्रज्ञानावर अंतर्दृष्टी आणि तंत्र सामायिक करणे आणि उदयोन्मुख डेव्हलपर्सच्या समुदायाशी संलग्न होणे."
+                            "text": "प्रोग्रामिंग ट्यूटोरियलवर लक्ष केंद्रित करणारा <b>YouTube channel</b> लॉन्च केला, <b>विविध तंत्रज्ञानावर अंतर्दृष्टी आणि तंत्र सामायिक करणे</b> आणि उदयोन्मुख डेव्हलपर्सच्या समुदायाशी संलग्न होणे."
                         }
                     }
                 },
@@ -203,15 +228,15 @@
                     "locales": {
                         "en": {
                             "title": "Working on a new **AI Short Video Generator**!",
-                            "text": "I built **ClipsyAI**, an AI-driven short video generator that transforms your thoughts into stunning, story-like visuals — blending creativity, automation, and precision in every frame."
+                            "text": "I built <b>ClipsyAI</b>, an AI-driven short video generator that transforms your thoughts into stunning, story-like visuals — blending creativity, automation, and precision in every frame."
                         },
                         "hi": {
                             "title": "एक नया **AI Short Video Generator** बना रहा हूँ!",
-                            "text": "मैंने **ClipsyAI** बनाया, एक AI-चालित शॉर्ट वीडियो जनरेटर जो आपके विचारों को शानदार, कहानी जैसी दृश्यों में बदल देता है — हर फ्रेम में रचनात्मकता, स्वचालन और सटीकता को मिलाता है।"
+                            "text": "मैंने <b>ClipsyAI</b> बनाया, एक AI-चालित शॉर्ट वीडियो जनरेटर जो आपके विचारों को शानदार, कहानी जैसी दृश्यों में बदल देता है — हर फ्रेम में रचनात्मकता, स्वचालन और सटीकता को मिलाता है।"
                         },
                         "mr": {
                             "title": "एक नवीन **AI Short Video Generator** वर काम करत आहे!",
-                            "text": "मी **ClipsyAI** तयार केले, एक AI-चालित शॉर्ट व्हिडिओ जनरेटर जो तुमच्या विचारांना आश्चर्यकारक, कथा-सारख्या दृश्यांमध्ये रूपांतरित करतो — प्रत्येक फ्रेममध्ये निर्मिती, स्वयंचलन आणि अचूकता मिसळतो."
+                            "text": "मी <b>ClipsyAI</b> तयार केले, एक AI-चालित शॉर्ट व्हिडिओ जनरेटर जो तुमच्या विचारांना आश्चर्यकारक, कथा-सारख्या दृश्यांमध्ये रूपांतरित करतो — प्रत्येक फ्रेममध्ये निर्मिती, स्वयंचलन आणि अचूकता मिसळतो."
                         }
                     }
                 },
@@ -227,15 +252,39 @@
                     "locales": {
                         "en": {
                             "title": "Launched my **personal website**!",
-                            "text": "I built my portfolio to showcase my knowledge, creativity, and impactful projects. It reflects my passion for innovation, learning, and continuous growth."
+                            "text": "I built my portfolio to showcase my <b>knowledge, creativity, and impactful projects.</b> It reflects my passion for <b>innovation, learning, and continuous growth.</b>"
                         },
                         "hi": {
                             "title": "मेरी **personal website** लॉन्च की!",
-                            "text": "मैंने अपना portfolio बनाया ताकि मैं अपने ज्ञान, रचनात्मकता और प्रभावशाली projects को प्रदर्शित कर सकूं। यह नवाचार, सीखने और निरंतर विकास के लिए मेरे जुनून को दर्शाता है।"
+                            "text": "मैंने अपना portfolio बनाया ताकि मैं अपने <b>ज्ञान, रचनात्मकता और प्रभावशाली projects को प्रदर्शित कर सकूं।</b> यह <b>नवाचार, सीखने और निरंतर विकास</b> के लिए मेरे जुनून को दर्शाता है।"
                         },
                         "mr": {
                             "title": "माझी **personal website** लॉन्च केली!",
-                            "text": "मी माझे portfolio बनवले जेणेकरून मी माझे ज्ञान, निर्मिती आणि प्रभावी projects प्रदर्शित करू शकेन। हे नवकल्पना, शिकणे आणि सतत वाढीसाठीच्या माझ्या उत्साहाला प्रतिबिंबित करते."
+                            "text": "मी माझे portfolio बनवले जेणेकरून मी माझे <b>ज्ञान, निर्मिती आणि प्रभावी projects प्रदर्शित करू शकेन.</b> हे <b>नवकल्पना, शिकणे आणि सतत वाढीसाठीच्या</b> माझ्या उत्साहाला प्रतिबिंबित करते."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "02/23/2025",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://drive.google.com/file/d/1859aL4gsnTQkjBxDmbais4H8Lwba5xRT/view?usp=drive_link" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Participated in **FOSS HACK**!",
+                            "text": "I participated in the <b>FOSS (Free and Open Source Software) Hackathon held in Pune</b> — a thrilling 36-hour coding marathon.It was an incredible experience <b>collaborating with talented developers</b> and building innovative open-source solutions. The event helped me strengthen my <b>teamwork, creativity, and problem-solving skills under real-world challenges.</b>"
+                        }, 
+                        "hi": {
+                            "title": "**FOSS HACK** हैकथॉन में भाग लिया!",
+                            "text": "मैंने पुणे में आयोजित <b>FOSS (Free and Open Source Software) हैकाथॉन में भाग लिया</b> — यह एक रोमांचक 36 घंटे का कोडिंग मैराथन था। <b>प्रतिभाशाली डेवलपर्स के साथ काम करना</b> और नवोन्मेषी ओपन-सोर्स सॉल्यूशन्स बनाना एक शानदार अनुभव था। इस इवेंट ने मेरी <b>टीमवर्क, क्रिएटिविटी और समस्या-समाधान कौशल</b> को वास्तविक परिस्थितियों में और मजबूत किया।"
+                        },
+                        "mr": {
+                            "title": "**FOSS HACK** हॅकथॉनमध्ये सहभागी झालो!",
+                            "text": "मी पुणे येथे झालेल्या <b>FOSS (Free and Open Source Software) हॅकथॉन मध्ये सहभागी झालो होतो</b> — हा एक रोमांचक ३६ तासांचा कोडिंग मॅरेथॉन होता. <b>प्रतिभावान डेव्हलपर्ससोबत काम करताना</b> आणि नाविन्यपूर्ण ओपन-सोर्स सोल्यूशन्स तयार करताना हा एक अद्भुत अनुभव होता. या कार्यक्रमामुळे माझ्या <b>टीमवर्क, सर्जनशीलता आणि समस्या सोडवण्याच्या कौशल्यांना</b> वास्तव परिस्थितीत अधिक बळकटी मिळाली."
                         }
                     }
                 }

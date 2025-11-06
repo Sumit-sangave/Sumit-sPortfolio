@@ -62,32 +62,36 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Sumit-sangave"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "youtubeVideo": "https://youtube.com/@ssangave2631?si=SVpyDQo1zTOmXw3g",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/clipsyai1.png",
+                                "images/pictures/clipsyai2.png",
+                                "images/pictures/clipsyai3.png",
+                                "images/pictures/clipsyai4.png"                                                     
+                            ]
+                        }                    
                     },
 
                     "locales": {
                         "en": {
                             "title": "CLipsyAI",
-                            "text": "AI-powered tool that turns text prompts into complete short videos with scripts, visuals, voiceovers, and captions. Built using <b>Next.js</b>, <b>Gemini API</b>, and <b>Cloudinary</b> with SaaS-ready features.",
+                            "text": "AI-powered tool that turns text prompts into complete short videos with scripts, visuals, voiceovers, and captions. Built using <b>Next.js</b>, <b>Gemini API</b>, <b>Clerk</b> and <b>Cloudinary</b> with SaaS-ready features.",
                             "tags": ["AI","Next.js","SaaS","Cloudinary"]
                         },
                         "hi": {
                             "title": "CLipsyAI",
-                            "text": "AI-संचालित उपकरण जो टेक्स्ट प्रॉम्प्ट को पूर्ण शॉर्ट वीडियो में बदलता है जिसमें स्क्रिप्ट, विजुअल, वॉयसओवर और कैप्शन शामिल हैं। Next.js, Gemini API और Cloudinary के साथ SaaS-तैयार सुविधाओं के साथ निर्मित।",
+                            "text": "AI-संचालित उपकरण जो टेक्स्ट प्रॉम्प्ट को पूर्ण शॉर्ट वीडियो में बदलता है जिसमें स्क्रिप्ट, विजुअल, वॉयसओवर और कैप्शन शामिल हैं। <b>Next.js</b>, <b>Gemini API</b>, <b>Clerk</b> और <b>Cloudinary</b> के साथ SaaS-तैयार सुविधाओं के साथ निर्मित।",
                             "tags": ["AI","Next.js","SaaS","Cloudinary"]
                         },
                         "mr": {
                             "title": "CLipsyAI",
-                            "text": "AI-चालित साधन जे टेक्स्ट प्रॉम्प्ट्सना पूर्ण लहान व्हिडिओमध्ये रूपांतरित करते ज्यात स्क्रिप्ट, व्हिज्युअल, व्हॉइसओव्हर आणि कॅप्शन्स समाविष्ट आहेत। Next.js, Gemini API आणि Cloudinary सह SaaS-तयार वैशिष्ट्यांसह बांधले",
+                            "text": "AI-चालित साधन जे टेक्स्ट प्रॉम्प्ट्सना पूर्ण लहान व्हिडिओमध्ये रूपांतरित करते ज्यात स्क्रिप्ट, व्हिज्युअल, व्हॉइसओव्हर आणि कॅप्शन्स समाविष्ट आहेत। <b>Next.js</b>, <b>Gemini API</b>, <b>Clerk</b> आणि <b>Cloudinary</b> सह SaaS-तयार वैशिष्ट्यांसह बांधले",
                             "tags": ["AI","Next.js","SaaS","Cloudinary"]
                         }
                     }
@@ -101,15 +105,25 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://energize-campus-ai.lovable.app"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Sumit-sangave/CGMMain"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "youtubeVideo": "https://youtube.com/@ssangave2631?si=SVpyDQo1zTOmXw3g",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/cgm1.png",
+                                "images/pictures/cgm2.png",
+                                "images/pictures/cgm3.png",
+                                "images/pictures/cgm4.png",  
+                                "images/pictures/cgm5.png",                           
+                                "images/pictures/cgm6.png", 
+                                "images/pictures/cgm7.png",                                                         
+                                "images/pictures/cgm8.png",                                                         
+                                "images/pictures/cgm9.png"                                                         
+                            ]
                         }
                     },
 
@@ -140,19 +154,22 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://hackathon.sknscoe.ac.in/"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Sumit-sangave"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "youtubeVideo": "https://youtube.com/@ssangave2631?si=SVpyDQo1zTOmXw3g",
                         "screenshots": {
                             "aspectRatio": "16:9",
                             "images": [
-                                "",
-                                "images/pictures/project-screenshot-2.png",
-                                "images/pictures/project-screenshot-3.png",
-                                "images/pictures/project-screenshot-4.png"                            ]
+                                "images/pictures/sknhack1.png",
+                                "images/pictures/sknhack2.png",
+                                "images/pictures/sknhack3.png",
+                                "images/pictures/sknhack4.png",  
+                                "images/pictures/sknhack5.png",                           
+                                "images/pictures/sknhack6.png"                                                         
+                            ]
                         }
                     },
 
@@ -169,7 +186,7 @@
                         },
                         "mr": {
                             "title": "Sinhgad Hackathon",
-                            "text": "रियल-टाइम वैलिडेशन आणि सुरक्षित डेटा हॅंडलिंगसह सुचारू हॅकाथॉन नोंदणीसाठी ऑनलाइन प्लॅटफॉर्म। React, PHP आणि MySQL वापरून बांधले",
+                            "text": "रियल-टाइम वैलिडेशन आणि सुरक्षित डेटा हॅंडलिंगसह सुचारू हॅकाथॉन नोंदणीसाठी ऑनलाइन प्लॅटफॉर्म. React, PHP आणि MySQL वापरून बांधले",
                             "tags": ["PHP", "React", "MySQL","Fullstack"]
                         }
                     }
@@ -183,15 +200,21 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://www.linkedin.com/posts/sumit-sangave-8667142a3_algosys-edtech-teamwork-activity-7275170884175233024-5F3Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElBNM4BWkmxgIzxbOBpmo9nEe3c9h0FW10"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Sumit-sangave"}
                     ],
 
-                    "media": {
-                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                     "media": {
+                        "youtubeVideo": "https://youtube.com/@ssangave2631?si=SVpyDQo1zTOmXw3g",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/algosys1.jpg",
+                                "images/pictures/algosys2.jpg",
+                                "images/pictures/algosys3.jpg",
+                                "images/pictures/algosys4.jpg",  
+                                "images/pictures/algosys5.jpg"                        
+                            ]
                         }
                     },
 
@@ -217,38 +240,47 @@
                 {
                     "categoryId": "websites",
                     "icon": {
-                        "img": "images/pictures/learnex.png",
+                        "img": "images/pictures/successclasses.png",
                         "faColors": {"bg": "#4ECDC4", "fill": "#111"}
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Sumit-sangave"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "youtubeVideo": "https://youtube.com/@ssangave2631?si=SVpyDQo1zTOmXw3g",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/successclasses1.png",
+                                "images/pictures/successclasses2.png",
+                                "images/pictures/successclasses3.png",
+                                "images/pictures/successclasses4.png",  
+                                "images/pictures/successclasses5.png",                           
+                                "images/pictures/successclasses6.png",
+                                "images/pictures/successclasses7.png",
+                                "images/pictures/successclasses8.png",
+                                "images/pictures/successclasses9.png"                                                         
+                            ]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "LearNex",
-                            "text": "Engaging platform combining education with games, quizzes, and progress tracking using HTML, CSS, JS, and Django REST Framework.",
-                            "tags": ["Education", "DjangoREST", "PostgreSQL", "GamifiedLearning"]
+                            "title": "Success Classes",
+                            "text": "I’m creating a modern and interactive website for Success Classes to promote quality education for students and parents, covering 8th–12th, MHT-CET, JEE, and NEET courses. It aims to showcase our teaching excellence and student achievements.",
+                            "tags": ["Education", "DjangoREST", "PostgreSQL", "InteractiveWebsite"]
                         },
                         "hi": {
-                            "title": "LearNex",
-                            "text": "शिक्षा को गेम्स, क्विज़ और प्रगति ट्रैकिंग के साथ जोड़ने वाला आकर्षक प्लेटफॉर्म। HTML, CSS, JS और Django REST Framework का उपयोग करके बनाया गया।",
-                            "tags": ["Education", "DjangoREST", "PostgreSQL", "GamifiedLearning"]
+                            "title": "Success Classes",
+                            "text": "मैं Success Classes के लिए एक आधुनिक और इंटरएक्टिव वेबसाइट बना रहा हूँ, जो छात्रों और अभिभावकों के लिए गुणवत्तापूर्ण शिक्षा को बढ़ावा देगी (8वीं से 12वीं, MHT-CET, JEE और NEET)। यह वेबसाइट हमारी उत्कृष्ट शिक्षण पद्धति और छात्रों की उपलब्धियों को प्रदर्शित करेगी।",
+                            "tags": ["Education", "DjangoREST", "PostgreSQL", "InteractiveWebsite"]
                         },
                         "mr": {
-                            "title": "LearNex",
-                            "text": "शिक्षा गेम्स, क्विझ आणि प्रगती ट्रॅकिंगसह जोडणारे आकर्षक प्लॅटफॉर्म। HTML, CSS, JS आणि Django REST Framework वापरून बांधले",
-                            "tags": ["Education", "DjangoREST", "PostgreSQL", "GamifiedLearning"]
+                            "title": "Success Classes",
+                            "text": "मी Success Classes साठी आधुनिक आणि इंटरअॅक्टिव्ह वेबसाइट तयार करत आहे, जी विद्यार्थ्यांसाठी आणि पालकांसाठी दर्जेदार शिक्षणाचे प्रमोशन करेल (८वी ते १२वी, MHT-CET, JEE आणि NEET). ही वेबसाइट आमच्या उत्कृष्ट अध्यापन पद्धती आणि विद्यार्थ्यांच्या यशाची झलक दाखवेल.",
+                            "tags": ["Education", "DjangoREST", "PostgreSQL", "InteractiveWebsite"]
                         }
                     }
                 },
@@ -261,14 +293,13 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://lightblue.io"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/lightblue"}
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Sumit-sangave"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://youtube.com/watch?v=lightblue-demo",
+                        "youtubeVideo": "https://youtube.com/@ssangave2631?si=SVpyDQo1zTOmXw3g",
                         "screenshots": {
-                            "aspectRatio": null,
+                            "aspectRatio": "16:9",
                             "images": []
                         }
                     },
