@@ -104,9 +104,9 @@
             "component": "ArticleTestimonials",
             "config": {},
             "locales": {
-                "en": {"title": "Client **testimonials**"},
-                "hi": {"title": "ग्राहक **प्रशंसापत्र**"},
-                "mr": {"title": "क्लायंट **प्रशंसापत्र**"}
+                "en": {"title": "**Love** from peoples"},
+                "hi": {"title": "लोगों से मिला **प्यार**"},
+                "mr": {"title": "लोकांचं मिळालेलं **प्रेम**"}
             },
 
             "items": [
