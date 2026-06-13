@@ -1,27 +1,27 @@
 {
     "locales": {
         "en": {
-            "title": "Portfolio",
+            "title": "Projects",
             "title_long_prefix": "Take a look at",
-            "title_long": "My **Portfolio**"
+            "title_long": "My **Projects**"
         },
 
         "hi": {
-            "title": "पोर्टफोलियो",
+            "title": "प्रोजेक्ट्स",
             "title_long_prefix": "देखिए",
-            "title_long": "मेरा **पोर्टफोलियो**"
+            "title_long": "मेरे **प्रोजेक्ट्स**"
         },
 
         "mr": {
-            "title": "पोर्टफोलिओ",
+            "title": "प्रोजेक्ट्स",
             "title_long_prefix": "पहा",
-            "title_long": "माझे **पोर्टफोलिओ**"
+            "title_long": "माझे **प्रोजेक्ट्स**"
         }
     },
 
     "articles": [
         {
-            "id": "portfolio",
+            "id": "Projects",
             "component": "ArticlePortfolio",
             "config": {},
             "locales": {},
@@ -44,16 +44,108 @@
                     }
                 },
                 {
-                    "id": "utilities",
+                    "id": "data analysis",
                     "locales": {
-                        "en": {"singular": "Utility", "plural": "Utilities"},
-                        "hi": {"singular": "उपयोगिता", "plural": "उपयोगिताएँ"},
-                        "mr": {"singular": "उपयुक्त साधन", "plural": "उपयुक्त साधने"}
+                        "en": {"singular": "Data Analysis", "plural": "Data Analysis"},
+                        "hi": {"singular": "डेटा विश्लेषण", "plural": "डेटा विश्लेषण"},
+                        "mr": {"singular": "माहितीचे विश्लेषण", "plural": "माहितीचे विश्लेषण"}
                     }
                 }
             ],
 
             "items": [
+
+                {
+                    "categoryId": "data analysis",
+                    "icon": {
+                        "img": "images/pictures/SalesDashboard.png",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Sumit-sangave"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://youtube.com/@ssangave2631?si=SVpyDQo1zTOmXw3g",
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/Sales1.png",
+                                "images/pictures/Sales2.png",
+                                "images/pictures/Sales3.png",
+                                "images/pictures/Sales4.png"                                                     
+                            ]
+                        }                    
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Sales Dashboard",
+                            "text": "Developed an interactive <b>Power BI</b> dashboard to analyze sales performance and business trends. Used <b>DAX</b> for advanced <b>data modeling</b>, <b>forecasting</b>, and generating actionable insights to support data-driven business decisions.",
+                            "tags":  ["PowerBI","DAX","Data Cleaning","Forecasting","Data Modeling"]
+                        },
+                        "hi": {
+                            "title": "Sales Dashboard",
+                            "text": "बिक्री प्रदर्शन और व्यावसायिक रुझानों के विश्लेषण के लिए एक इंटरैक्टिव <b>Power BI</b> डैशबोर्ड विकसित किया। <b>DAX</b> का उपयोग करके उन्नत <b>डेटा मॉडलिंग</b>, <b>बिक्री पूर्वानुमान (Forecasting)</b> और डेटा-आधारित व्यावसायिक निर्णयों हेतु उपयोगी इनसाइट्स तैयार किए।",
+                            "tags":  ["PowerBI","DAX","Data Cleaning","Forecasting","Data Modeling"]
+                        },
+                        "mr": {
+                            "title": "Sales Dashboard",
+                            "text": "विक्रीची कामगिरी आणि व्यावसायिक ट्रेंडचे विश्लेषण करण्यासाठी इंटरॅक्टिव्ह <b>Power BI</b> डॅशबोर्ड विकसित केला. <b>DAX</b> चा वापर करून प्रगत <b>डेटा मॉडेलिंग</b>, <b>विक्री अंदाज (Forecasting)</b> आणि व्यवसायिक निर्णयांसाठी उपयुक्त माहिती तयार केली.",
+                            "tags":  ["PowerBI","DAX","Data Cleaning","Forecasting","Data Modeling"]
+                        }
+                    }
+                },
+                
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/pralay.png",
+                        "faColors": {"bg": "#4ECDC4", "fill": "#111"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://www.pralayapp.me/"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Sumit-sangave"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://youtube.com/@ssangave2631?si=SVpyDQo1zTOmXw3g",
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/pralay1.png",
+                                "images/pictures/pralay2.png",
+                                "images/pictures/pralay3.png",
+                                "images/pictures/pralay4.png",
+                                "images/pictures/pralay5.png",
+                                "images/pictures/pralay6.png",
+                                "images/pictures/pralay7.png"
+                            ]
+                        }                    
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Pralay",
+                            "text": "Developed an AI-powered disaster intelligence platform that enables citizens to report ocean hazards through geo-tagged images and social media monitoring. The system provides real-time alerts, location tracking, and role-based coordination tools, helping authorities respond quickly and effectively during disasters.",
+                            "tags": ["React.js", "TypeScript", "Python", "Django REST Framework", "PostgreSQL", "Leaflet", "Tailwind CSS", "Twilio", "SendGrid", "i18n"]
+
+                        },
+                        "hi": {
+                            "title": "Pralay",
+                            "text": "एक एआई-आधारित आपदा प्रबंधन प्लेटफ़ॉर्म विकसित किया गया, जो नागरिकों को जियो-टैग की गई तस्वीरों और सोशल मीडिया मॉनिटरिंग के माध्यम से समुद्री खतरों की रिपोर्ट करने में सक्षम बनाता है। यह प्रणाली रियल-टाइम अलर्ट, लोकेशन ट्रैकिंग और भूमिका-आधारित समन्वय उपकरण प्रदान करती है, जिससे आपदा के समय प्रशासन को तेज़ और प्रभावी प्रतिक्रिया देने में सहायता मिलती है।",
+                            "tags": ["React.js", "TypeScript", "Python", "Django REST Framework", "PostgreSQL", "Leaflet", "Tailwind CSS", "Twilio", "SendGrid", "i18n"]
+                        },
+                        "mr": {
+                            "title": "Pralay",
+                            "text": "एआय-आधारित आपत्ती व्यवस्थापन प्लॅटफॉर्म विकसित केला, ज्याद्वारे नागरिक जिओ-टॅग केलेल्या प्रतिमा आणि सोशल मीडिया मॉनिटरिंगच्या मदतीने समुद्री धोक्यांची माहिती देऊ शकतात. ही प्रणाली रिअल-टाइम अलर्ट, स्थान ट्रॅकिंग आणि भूमिका-आधारित समन्वय साधने प्रदान करते, ज्यामुळे आपत्तीच्या वेळी प्रशासनाला जलद आणि प्रभावी प्रतिसाद देता येतो.",
+                            "tags": ["React.js", "TypeScript", "Python", "Django REST Framework", "PostgreSQL", "Leaflet", "Tailwind CSS", "Twilio", "SendGrid", "i18n"]
+                        }
+                    }
+                },
+
                 {
                     "categoryId": "websites",
                     "icon": {
@@ -80,17 +172,17 @@
 
                     "locales": {
                         "en": {
-                            "title": "CLipsyAI",
+                            "title": "ClipsyAI",
                             "text": "AI-powered tool that turns text prompts into complete short videos with scripts, visuals, voiceovers, and captions. Built using <b>Next.js</b>, <b>Gemini API</b>, <b>Clerk</b> and <b>Cloudinary</b> with SaaS-ready features.",
                             "tags": ["AI","Next.js","SaaS","Cloudinary"]
                         },
                         "hi": {
-                            "title": "CLipsyAI",
+                            "title": "ClipsyAI",
                             "text": "AI-संचालित उपकरण जो टेक्स्ट प्रॉम्प्ट को पूर्ण शॉर्ट वीडियो में बदलता है जिसमें स्क्रिप्ट, विजुअल, वॉयसओवर और कैप्शन शामिल हैं। <b>Next.js</b>, <b>Gemini API</b>, <b>Clerk</b> और <b>Cloudinary</b> के साथ SaaS-तैयार सुविधाओं के साथ निर्मित।",
                             "tags": ["AI","Next.js","SaaS","Cloudinary"]
                         },
                         "mr": {
-                            "title": "CLipsyAI",
+                            "title": "ClipsyAI",
                             "text": "AI-चालित साधन जे टेक्स्ट प्रॉम्प्ट्सना पूर्ण लहान व्हिडिओमध्ये रूपांतरित करते ज्यात स्क्रिप्ट, व्हिज्युअल, व्हॉइसओव्हर आणि कॅप्शन्स समाविष्ट आहेत। <b>Next.js</b>, <b>Gemini API</b>, <b>Clerk</b> आणि <b>Cloudinary</b> सह SaaS-तयार वैशिष्ट्यांसह बांधले",
                             "tags": ["AI","Next.js","SaaS","Cloudinary"]
                         }
