@@ -38,7 +38,7 @@
 
             "items": [
                 {
-                    "value": "See my resume",
+                    "value": "Resume",
                     "links": [
                         {"href": "https://drive.google.com/file/d/1kciK5omknofccjbyVzU5u8O3Lg1NhzoL/view?usp=sharing"}
                     ],
@@ -49,24 +49,35 @@
                     }
                 },
                 {
-                    "value": "sumitsangave2631@gmail.com",
+                    "value": "LinkedIn",
                     "links": [
-                        {"href": "mailto:sumitsangave2631@gmail.com"}
+                        {"href": "https://www.linkedin.com/in/sumit-sangave-8667142a3/"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-envelope",
+                        "fa": "fa-brands fa-linkedin",
                         "faColors": {"bg": null, "fill": null}
                     }
-                },
+                },             
                 {
-                    "value": "@Sumit-sangave",
+                    "value": "GitHub",
                     "links": [
                         {"href": "https://github.com/Sumit-sangave"}
                     ],
                     "icon": {
                         "img": null,
                         "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "Email",
+                    "links": [
+                        {"href": "mailto:sumitsangave2631@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
                         "faColors": {"bg": null, "fill": null}
                     }
                 }

@@ -47,7 +47,7 @@
         letter-spacing: 0.03em;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
-        color: #fff;
+        color: var(--theme-secondary);
         opacity: 1;
         @include media-breakpoint-down(lg) {
             font-size: 0.8rem;
