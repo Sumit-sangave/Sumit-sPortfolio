@@ -28,9 +28,9 @@
             "component": "ArticleServices",
             "config": {},
             "locales": {
-                "en": { "title": "Fun Facts" },
-                "hi": { "title": "रोचक तथ्य" },
-                "mr": { "title": "मजेदार तथ्ये" }
+                "en": { "title": "**Cool Stuff** I Do" },
+                "hi": { "title": "मैंने किए हुए **खास काम**" },
+                "mr": { "title": "मी केलेल्या **खास गोष्टी**" }
             },
 
             "items": [
@@ -146,16 +146,16 @@
                             "info": "Passion for learning"
                         },
                         "hi": {
-                            "title": "अनंत",
+                            "title": "Infinite",
                             "info": "सीखने का जुनून"
                         },
                         "mr": {
-                            "title": "अनंत",
+                            "title": "Infinite",
                             "info": "शिकण्याची आवड"
                         }
                     }
                 },
-                      
+
                 {
                     "icon": {
                         "img": null,

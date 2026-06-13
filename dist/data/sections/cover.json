@@ -40,7 +40,7 @@
                 {
                     "value": "See my resume",
                     "links": [
-                        {"href": "https://drive.google.com/file/d/1YQ9g6cWnIqMeh2HmKHgzzl1j49pz3wou/view?usp=drive_link"}
+                        {"href": "https://drive.google.com/file/d/1HhTdkDLHzav1-kheCCPu0m_k8pCP8u8H/view?usp=drive_link"}
                     ],
                     "icon": {
                         "img": null,
@@ -104,9 +104,9 @@
             "component": "ArticleTestimonials",
             "config": {},
             "locales": {
-                "en": {"title": "Client **testimonials**"},
-                "hi": {"title": "ग्राहक **प्रशंसापत्र**"},
-                "mr": {"title": "क्लायंट **प्रशंसापत्र**"}
+                "en": {"title": "**Love** from peoples"},
+                "hi": {"title": "लोगों से मिला **प्यार**"},
+                "mr": {"title": "लोकांचं मिळालेलं **प्रेम**"}
             },
 
             "items": [
